@@ -1,0 +1,1 @@
+java -Dfile.encoding=windows-1251 -jar WebAppStressTest.jar ./config/webapp.test.properties
